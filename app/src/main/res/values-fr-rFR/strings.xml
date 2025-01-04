@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">liste de pays</string>
+    <string name="language_button_text">Anglais</string>
+    <!-- Country names in French -->
+    <string-array name="country_names">
+        <item>États-Unis</item>
+        <item>Canada</item>
+        <item>Royaume-Uni</item>
+        <item>France</item>
+        <item>Allemagne</item>
+        <item>Japon</item>
+        <item>Chine</item>
+        <item>Inde</item>
+        <item>Brésil</item>
+        <item>Mexique</item>
+    </string-array>
+    <!-- Language Options in French -->
+    <string-array name="language_options">
+        <item>Anglais</item>
+        <item>Français</item>
+        <item>Arabe</item>
+    </string-array>
+</resources>

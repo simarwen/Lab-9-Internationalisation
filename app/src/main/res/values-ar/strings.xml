@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">قائمة الدول</string>
+    <string name="language_button_text">الإنجليزية</string>
+    <!-- Country names in Arabic -->
+    <string-array name="country_names">
+        <item>الولايات المتحدة</item>
+        <item>كندا</item>
+        <item>المملكة المتحدة</item>
+        <item>فرنسا</item>
+        <item>ألمانيا</item>
+        <item>اليابان</item>
+        <item>الصين</item>
+        <item>الهند</item>
+        <item>البرازيل</item>
+        <item>المكسيك</item>
+    </string-array>
+    <!-- Language Options in Arabic -->
+    <string-array name="language_options">
+        <item>الإنجليزية</item>
+        <item>الفرنسية</item>
+        <item>العربية</item>
+    </string-array>
+</resources>
