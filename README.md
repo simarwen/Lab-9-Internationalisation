@@ -10,9 +10,6 @@ This Android application demonstrates how to create a dynamic country list that 
 -   **Clean and Maintainable Code:** Demonstrates good practices in Android development for managing string resources and multiple languages.
 -   **Material Design:** Uses a `MaterialButton` for a more modern dropdown menu.
 
-## Screenshots
-
-_Insert screenshots here if you have them (see instructions below)_
 
 ## How to Use
 
